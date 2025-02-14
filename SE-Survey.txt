@@ -1,0 +1,55 @@
+A. General information
+
+Every engineering school in Canada is reviewed by the Canadian Engineering Accreditation Board
+(CEAB) to ensure programs meet the requirements for educating well-prepared engineers.
+
+As part of this process, we require all fourth-year students to complete the following survey on
+engineering competencies developed to date. The results of this survey will applied to the further
+development and improvement of your engineering program.
+
+B. Engineering Competencies
+
+For each statement below, please indicate how confident you are that you have the capability to perform
+each task listed below, if you were to enter the workforce today. Please check one response for each statement:
+from 0% (have no confidence) to 100% (have total confidence).
+
+How confident are you in your ability to:
+
+1. Apply your engineering knowledge and skills to solve a real-world problem.
+2. Apply an appropriate engineering technique or tool to accomplish a task.
+3. Get team members to make personal commitments to deliver what they had agreed to do for a project.
+4. Identify the interactions that an engineering project has with the economic, social, health, safety, legal, and cultural aspects of society.
+5. Recognize your strengths and weaknesses when working on a specific problem.
+6. Adapt or extend an engineering technique to accomplish a complex task.
+7. Generate a working hypothesis and a strategy to test it.
+8. Review your team’s strengths and weaknesses and tell others where the team might need help.
+9. Identify processes in your project to ensure protection of the public and the public interest.
+10. Use your technical knowledge to participate in a design discussion.
+11. Describe a well-known experiment that proved an important scientific law.
+12. Help two project team members with a strong and emotional disagreement resolve their differences.
+13. Synthesize information to reach conclusions that are supported by data and needs.
+14. Analyze and interpret data.
+15. Identify the regulatory policies that pertain to a project that you are working on.
+16. Make assumptions that successfully simplify a complex problem to make it easier to work with.
+17. Apply project cost management principles to ensure that a project is completed within budget.
+18. Admit when you have made a mistake.
+19. Deliver a clear and organized formal presentation to a group of professionals.
+20. Use mathematics to describe and solve engineering problems.
+21. After solving a problem, evaluate your initial assumptions to see if they need to be changed.
+22. Interpret a formal technical drawing in your engineering discipline.
+23. Identify the best approach that is suited to your learning style.
+24. Test a design solution to determine if it meets its specified needs.
+25. Describe the limitations of various engineering tools and choose the best one to accomplish a task.
+26. Use various written styles to communicate complex engineering concepts to your colleagues.
+27. Apply technical, social, and environmental criteria to guide trade-offs between design alternatives.
+28. Collect and interpret customer needs for a project you were given.
+29. Analyze the trade-offs between alternative design approaches and select the one that is best for your project.
+30. Prepare a sketch of a design concept that is understood by your colleagues.
+31. Identify and plan for risks in an engineering project.
+32. Use technical literature or other information sources to fill a gap in your knowledge.
+33. Work with others to establish project objectives when different project tasks must be completed.
+34. Incorporate sustainability considerations in project decision making.
+35. At the start of a project, identify all the roles and responsibilities that your team will need to complete it.
+36. Identify an ethical dilemma when it occurs in a project.
+37. Analyze opposing positions on an issue and make a judgement based on the evidence.
+38. Identify your professional responsibilities within a large engineering project.
